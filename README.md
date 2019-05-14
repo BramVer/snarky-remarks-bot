@@ -15,9 +15,9 @@ Why not? 🤔🤔
 
 2. Create a `.env` file with the proper configuration values
 
-    cp .env.default snark_bot/.env
-    vim snark_bot/.env
+    `cp .env.default snark_bot/.env`
+    `vim snark_bot/.env`
 
 3. Call the module from Python
 
-    python -m snark_bot
+    `python -m snark_bot`
